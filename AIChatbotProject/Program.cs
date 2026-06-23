@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Threading;
 using System.Collections.Generic;
-using OpenAI;
-using OpenAI.Chat;
 using Microsoft.Extensions.Configuration;
 using Google.GenAI;
 using System.Security.Cryptography;
